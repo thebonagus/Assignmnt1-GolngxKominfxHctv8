@@ -1,4 +1,4 @@
 Assignment 1
 
-Nama        : Eko Agus Darmawan
-Registrasi  : 149368582101-354
+id      : 149368582101-354
+name    : Eko Agus Darmawan
